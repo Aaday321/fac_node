@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cli-progress": "^3.11.2",
+    "prompt-sync": "^4.2.0",
+    "yarn": "^1.22.19"
+  }
+}
